@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Čeština",LANGUAGE="cs",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/cs/406_cs.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Ελληνικά",LANGUAGE="el",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/el/406_el.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/en/406_en.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Español (ES)",LANGUAGE="es",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/es/406_es.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Español (LA)",LANGUAGE="es-la",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/es-la/406_es-la.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Français",LANGUAGE="fr",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/fr/406_fr.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="German",LANGUAGE="de",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/de/406_de.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Italiano",LANGUAGE="it",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/it/406_it.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Polski",LANGUAGE="pl",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/pl/406_pl.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Română",LANGUAGE="ro",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/ro/406_ro.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Türkçe",LANGUAGE="tr",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/406/master/audio/tr/406_tr.m3u8"
+https://raw.githubusercontent.com/Apfomlb/407-408-409-410-411-413-414-415-416-417-418-419-421/master/407/407.m3u8
